@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ismaelocaramelo/Flexy/issues"
   },
-  "homepage": "https://github.com/ismaelocaramelo/Flexy#readme"
+  "homepage": "https://github.com/ismaelocaramelo/Flexy#readme",
+  "dependencies": {
+    "@emotion/core": "10.0.28"
+  }
 }
