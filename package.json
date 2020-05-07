@@ -10,8 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/ismaelocaramelo/Flexy.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "flex-box",
+    "flex",
+    "react components",
+    "layout"
+  ],
+  "author": "Ismael Bakkali Chairi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ismaelocaramelo/Flexy/issues"
