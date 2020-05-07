@@ -4,7 +4,7 @@ A extremely lightweight package to build amazing flex components.
 
 ## Features
 
-- [Lightweight](#How-to-use-it)
+- [Lightweight](#quick-start)
 - [Composable](#composable)
 - [Style extension](#style-extension)
 - [Space tokens configurable](#configurable)
@@ -23,7 +23,13 @@ And guess what? ain't can get any clue about it. No good choice.
 
 This is how Flexy was born, to overcome those situations by giving a meaningful way to build amazing composable UI components.
 
-## How to use it
+## Installation
+
+```
+npm install react-flexy
+```
+
+## Quick start
 
 ```javascript
 import Flexy from "react/flexy";
