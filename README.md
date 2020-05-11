@@ -1,3 +1,8 @@
+---
+name: Getting Started
+route: /
+---
+
 # Flexy
 
 A extremely lightweight package to build amazing flex components.
@@ -32,7 +37,7 @@ npm install react-flexy
 ## Quick start
 
 ```javascript
-import Flexy from "react/flexy";
+import Flexy from "react-flexy";
 
 const Horizontally = () => {
   return (
@@ -56,7 +61,7 @@ const Vertically = () => {
 ## Composable
 
 ```javascript
-import Flexy from "react/flexy";
+import Flexy from "react-flexy";
 
 const Composable = () => {
   return (
@@ -79,7 +84,7 @@ const Composable = () => {
 ## Configurable
 
 ```javascript
-import Flexy from "react/flexy";
+import Flexy from "react-flexy";
 
 // You could customize all the spaces,
 // the left ones will filled with the default config
@@ -103,7 +108,7 @@ const Configurable = () => {
 ## Style extension
 
 ```javascript
-import Flexy from "react/flexy";
+import Flexy from "react-flexy";
 
 const StyleExtension = () => {
   return (

@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"No test specified\"",
     "build": "rollup -c",
-    "prepublishOnly": "rm -rf dist && npm run build"
+    "prepublishOnly": "rm -rf dist && npm run build",
+    "docz:dev": "docz dev"
   },
   "repository": {
     "type": "git",
@@ -42,6 +43,8 @@
     "rollup-plugin-babel": "^4.4.0",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-peer-deps-external": "^2.2.2",
-    "rollup-plugin-uglify": "^6.0.4"
+    "rollup-plugin-uglify": "^6.0.4",
+    "docz": "^2.3.1",
+    "react-dom": "^16.13.1"
   }
 }
