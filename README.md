@@ -14,6 +14,10 @@ A extremely lightweight package to build amazing flex components.
 - [Style extension](#style-extension)
 - [Space tokens configurable](#configurable)
 
+## Documentation
+
+Visit https://react-flexy.netlify.app/
+
 ## Motivation
 
 One of the things nowadays I enjoy is Flexbox. And when it comes with React we can build agnostic components in such an amazing way that leverage the full potential of componentization.
@@ -118,7 +122,3 @@ const StyleExtension = () => {
   );
 };
 ```
-
-## Documentation
-
-Visit https://react-flexy.netlify.app/
