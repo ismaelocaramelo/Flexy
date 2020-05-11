@@ -54,7 +54,7 @@ const Horizontally = () => {
 
 const Vertically = () => {
   return (
-    <Flexy.Vertical center spaceAll="m">
+    <Flexy.Vertical spaceAll="m">
       <h1>Usage</h1>
       <Content />
     </Flexy.Vertical>
