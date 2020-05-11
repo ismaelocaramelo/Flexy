@@ -7,7 +7,8 @@
     "test": "echo \"No test specified\"",
     "build": "rollup -c",
     "prepublishOnly": "rm -rf dist && npm run build",
-    "docz:dev": "docz dev"
+    "docz:dev": "docz dev",
+    "docz:build": "docz build"
   },
   "repository": {
     "type": "git",
