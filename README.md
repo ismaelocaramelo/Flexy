@@ -121,4 +121,4 @@ const StyleExtension = () => {
 
 ## Documentation
 
-Visit https://hopeful-mcclintock-1992c7.netlify.app/
+Visit https://react-flexy.netlify.app/
