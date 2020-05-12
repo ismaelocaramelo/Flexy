@@ -6,21 +6,23 @@ menu: API
 
 # Props
 
-- spaceBetween
+- spaceBetween `Boolean`
 
-- spaceEvently
+- spaceEvently `Boolean`
 
-- spaceAround
+- spaceAround `Boolean`
 
-- justifyEnd
+- justifyEnd `Boolean`
 
-- flexWrap
+- flexWrap `Boolean`
 
-- flexEndSelf
+- flexEndSelf `Boolean`
 
-- alignEnd
+- alignEnd `Boolean`
 
-- justifyStart
+- justifyStart `Boolean`
+
+- addStyle `Style Object`
 
 ## Examples
 
