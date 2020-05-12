@@ -6,23 +6,23 @@ menu: API
 
 # Props
 
-- spaceBetween `Boolean`
+- spaceBetween --> `Boolean`
 
-- spaceEvently `Boolean`
+- spaceEvently --> `Boolean`
 
-- spaceAround `Boolean`
+- spaceAround --> `Boolean`
 
-- justifyEnd `Boolean`
+- justifyEnd --> `Boolean`
 
-- flexWrap `Boolean`
+- flexWrap --> `Boolean`
 
-- flexEndSelf `Boolean`
+- flexEndSelf --> `Boolean`
 
-- alignEnd `Boolean`
+- alignEnd --> `Boolean`
 
-- justifyStart `Boolean`
+- justifyStart --> `Boolean`
 
-- addStyle `Style Object`
+- addStyle --> `React.CSSProperties`
 
 ## Examples
 
