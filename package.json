@@ -1,7 +1,7 @@
 {
   "name": "react-flexy",
   "version": "1.0.7",
-  "description": "",
+  "description": "Building fast and realible components base on Flexbox",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No test specified\"",
