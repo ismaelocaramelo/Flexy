@@ -3,7 +3,9 @@ name: Getting Started
 route: /
 ---
 
-![alt text](./assets/flexy-pink-lg.png)
+<p align="center">
+  <img src="./assets/flexy-pink-lg.png">
+</p>
 
 A extremely lightweight package to build amazing flex components.
 
